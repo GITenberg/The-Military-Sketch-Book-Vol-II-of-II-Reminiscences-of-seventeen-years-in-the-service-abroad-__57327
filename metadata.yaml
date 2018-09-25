@@ -1,11 +1,16 @@
 _repo: The-Military-Sketch-Book-Vol-II-of-II-Reminiscences-of-seventeen-years-in-the-service-abroad-__57327
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57327-h/images/cover.jpg
 creator:
   author:
     agent_name: Maginn, William
     gutenberg_agent_id: '49318'
     url: http://www.gutenberg.org/2009/agents/49318
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57327#The-Military-Sketch-Book-Vol-II-of-II-Reminiscences-of-seventeen-years-in-the-service-abroad-_
 gutenberg_issued: '2018-06-14'
 gutenberg_type: Text
 identifiers:
